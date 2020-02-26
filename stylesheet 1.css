@@ -48,6 +48,7 @@
 	}
 	.content{
 		border-left: 2px solid gray;
+		margin:0px;
 	}
 
 body{
