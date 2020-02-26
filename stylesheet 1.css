@@ -61,11 +61,7 @@ body{
 		color:green;
 		text-decoration:none;
 	}
-	#MgrLefCon{
-		margin: 0px;
-		margin-left:10px;
-		padding-top:20px;
-		margin:0;
+
 	}
 	#MgrLefCon li{
 		padding-bottom: 10px;
