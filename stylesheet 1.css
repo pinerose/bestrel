@@ -25,7 +25,10 @@
 		margin-left:30px;
 	}
 	.leftcontents{
-		
+		margin: 0px;
+		margin-left:0px;
+		padding:20px;
+		margin:0;
 	}
 
 	#maintext{
@@ -36,8 +39,7 @@
 		display:inline;
 	}
 	.leftcontents{
-		margin:0px;
-		margin-left:10px;
+
 	}
 	.content{
 		border-left: 2px solid gray;
