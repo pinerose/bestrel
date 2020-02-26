@@ -12,12 +12,6 @@
 	margin:0;
 	}
 	
-	#blockgrid ol{
-	border-right:2px solid gray;
-	padding:20px;
-	margin:0;
-	}
-	
 	span{
 	font-size:25px;
 	}
@@ -36,6 +30,9 @@
 	.leftcontents{
 		margin: 0px;
 		margin-left:10px;
+		border-right:2px solid gray;
+		padding:20px;
+		margin:0;
 	}
 
 	#maintext{
