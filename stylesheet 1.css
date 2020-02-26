@@ -63,7 +63,10 @@ body{
 	}
 
 	#MgrLefCon{
-		padding:10px;
+		margin: 0px;
+		margin-left:0px;
+		padding:0px;
+		margin:0;
 	}
 
 	#MgrLefCon li{
