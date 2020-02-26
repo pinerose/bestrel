@@ -64,9 +64,9 @@ body{
 	#MgrLefCon{
 		margin: 0px;
 		margin-left:10px;
-		padding:20px;
+		padding-top:20px;
 		margin:0;
 	}
 	#MgrLefCon li{
-		padding: 10px;
+		padding-bottom: 10px;
 	}
