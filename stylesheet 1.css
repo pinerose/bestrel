@@ -42,6 +42,9 @@
 		padding-left: 15px;
 		display: inline;
 	}
+	#text{
+		display:inline;
+	}
 
 body{
 	font-family:"바탕", batang, "times new roman", serif;
