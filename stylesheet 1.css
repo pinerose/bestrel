@@ -62,6 +62,10 @@ body{
 		text-decoration:none;
 	}
 
+	#MgrLefCon{
+		padding:10px;
+	}
+
 	#MgrLefCon li{
 		padding-bottom: 10px;
 	}
