@@ -39,8 +39,8 @@
 	#text{
 		display:inline;
 	}
-	.leftcontents{
-
+	.leftcontents li{
+		padding-bottom: 10px;
 	}
 	.content{
 		border-left: 2px solid gray;
