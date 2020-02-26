@@ -45,6 +45,10 @@
 	#text{
 		display:inline;
 	}
+	.leftcontents{
+		margin:0px;
+		margin-left:10px;
+	}
 	.content{
 		border-left: 2px solid gray;
 	}
