@@ -56,6 +56,7 @@ body{
 	font-family:"바탕", batang, "times new roman", serif;
 	color:black;
 	text-decoration:none;
+
  /* 천생배필 간부진 stylesheet */
 	#present{
 		color:gray;
@@ -63,4 +64,10 @@ body{
 	#non-underline{
 		color:green;
 		text-decoration:none;
+	}
+	#MgrLefCon{
+		margin: 0px;
+		margin-left:10px;
+		padding:20px;
+		margin:0;
 	}
