@@ -27,8 +27,9 @@
 	.leftcontents{
 		margin: 0px;
 		margin-left:0px;
-		padding:20px;
+		padding:0px;
 		margin:0;
+		border-right:2px solid gray;
 	}
 
 	#maintext{
