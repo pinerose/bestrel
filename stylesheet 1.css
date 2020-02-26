@@ -35,10 +35,10 @@
 body{
 	font-family:"바탕", batang, "times new roman", serif;
  /* 천생배필 간부진 stylesheet */
-	.present{
+	#present{
 		color:#;
 	}
-	.non-underline{
+	#non-underline{
 		color:green;
 		text-decoration:none;
 	}
