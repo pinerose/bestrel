@@ -5,7 +5,7 @@
 	grid-template-columns:200px 1fr;
 	}
 	
-	h1{
+	#title h1{
 	font-size:60px;
 	border-bottom:3px solid gray;
 	padding:40px;
