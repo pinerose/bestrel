@@ -26,8 +26,9 @@
 	}
 	.manager1 li{
 		padding-bottom: 10px;
+		font-weight: bold;
 	}
-	
+
 	#leftcontents{
 		margin: 0px;
 		padding:0px;
