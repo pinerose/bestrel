@@ -52,7 +52,7 @@ body{
 	text-decoration:none;
 	}
  /* 천생배필 간부진 stylesheet */
-#present{
+.present{
 		color:gray;
 	}
 #non-underline{
