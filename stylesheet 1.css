@@ -1,4 +1,5 @@
 
+
 /* 천생배필 stylesheet */
 	#blockgrid{  /*칸 나누는 코드*/
 	display: grid;
@@ -34,11 +35,15 @@
 		padding-left: 15px;
 		display: inline;
 	}
-	#text{/*메인페이지 본문*/
+	.text{/*메인페이지 본문*/
 		display:inline;
 	}
+	.text li{
+		font-size: 30px;
+		margin-left: 35px;
+	}
 	#leftcontents li{/*목차 각각의 내용*/
-		padding-bottom: 10px;
+		padding-bottom: 20px;
 	}
 	.content{/*간부진 소개*/
 		border-left: 2px solid gray;
@@ -52,7 +57,7 @@ body{/*전체 글꼴설정*/
 	text-decoration:none;
 	}
  /* 천생배필 간부진 stylesheet */
-.present{
+#present{
 		color:gray;
 }
 
